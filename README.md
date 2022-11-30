@@ -1,7 +1,7 @@
 # Google-Keep-Note-Clone
 Created with CodeSandbox
 
-<img align="center" src="https://drive.google.com/file/d/1TWMS68ug00XfhFAyy9QRVAM-4ojJj9Rh/view">
+<img align="center" src="https://i.imgur.com/yYc05nE.png">
 <h4 align="center">🔦 Keeper 🔦</h4>
 
 <hr>
