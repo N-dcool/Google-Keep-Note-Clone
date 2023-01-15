@@ -20,14 +20,12 @@ Created with CodeSandbox
 
 <hr>
 
-## 🤓 Author
-
+## 🤓 Author 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Nareshchoudhary02"><img src="#" width="100px;" alt="Myself"/><br /><sub><b>Naresh Choudhary</b></sub></a><br /><a href="[https://github.com/lucasbivar](https://github.com/Nareshchoudhary02)" title="Code">💻</a></td>
-  <tr>
+  <td align="center"><a href="https://github.com/Nareshchoudhary02"><img src="https://i.ibb.co/nR1k4dZ/Myself-with-indian-flag.jpg" width="200px" alt="Myself"/><br /><sub><b>Naresh Choudhary</b></sub></a><br /><a href="https://github.com/Nareshchoudhary02" title="Code">💻</a></td>
+  </tr>
 </table>
 
----
-
+***
 Feel free to star ⭐ this repository if you like what you see 😉.
